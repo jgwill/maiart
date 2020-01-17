@@ -1,2 +1,8 @@
 # maiart
-Master in Art - Artificial Intelligence
+* Master in Art - Artificial Intelligence
+
+# X
+
+## x 200117 1528 - Receive variations
+### --@STCGoal TouchDesigner and Arduino Talks to each other
+* [x/x__arduino_td__200117/README.md](./src/x/x__arduino_td__200117/README.md)
