@@ -8,4 +8,4 @@
 * [x/x__arduino_td__200117/README.md](./src/x/x__arduino_td__200117/README.md)
 
 # 09
-* Integrating another channel to control rotation of the noize
+* Integrating another channel to control rotation of the noize : FAILED - Can not connect param, sucks I know !!
