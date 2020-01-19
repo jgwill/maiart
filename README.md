@@ -9,3 +9,6 @@
 
 # 09
 * Integrating another channel to control rotation of the noize : FAILED - Can not connect param, sucks I know !!
+
+# 10
+* INtegrating RENDER
