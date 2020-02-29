@@ -7,3 +7,6 @@
 [submodule "arduino"]
 	path = arduino
 	url = https://github.com/jgwill/arduino.hu.git
+[submodule "DeepFaceLab"]
+	path = DeepFaceLab
+	url = git@github.com:GuillaumeVFX/DeepFaceLab.git
